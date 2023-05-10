@@ -1,3 +1,8 @@
+# Notes
+
+https://www.notion.so/codeday1/REACT-18-Redux-8402758d732841abbf43db90ee73df1f?pvs=4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
