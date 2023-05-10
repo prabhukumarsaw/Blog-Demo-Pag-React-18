@@ -1,6 +1,6 @@
 # Notes
 
-https://www.notion.so/codeday1/REACT-18-Redux-8402758d732841abbf43db90ee73df1f?pvs=4
+https://codeday1.notion.site/REACT-18-Redux-8402758d732841abbf43db90ee73df1f
 
 
 # Getting Started with Create React App
